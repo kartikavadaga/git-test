@@ -1,0 +1,1 @@
+print("kartika + vadaga")
